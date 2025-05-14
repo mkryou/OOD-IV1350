@@ -1,0 +1,14 @@
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/controller/ControllerTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/integration/ExternalAccountingSystemTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/integration/ExternalCreatorTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/integration/ExternalInventorySystemTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/integration/ItemDTOTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/integration/ItemIDTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/model/AmountTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/model/CashPaymentTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/model/CashRegisterTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/model/ItemTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/model/QuantityTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/model/ReceiptTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/model/SaleTest.java
+/Users/melissakryou/POS4/POS4/src/test/java/se/kth/iv1350/pointofsale/startup/MainTest.java
